@@ -36,6 +36,6 @@ int main() {
         cout << "\tx2 = " << x2 << endl;
         // check solution
         cout << "Check:\ta*x1*x1 + b*x1 + c = " << a * x1 * x1 + b * x1 + c;
-        cout << "\n    \ta*x1*x1 + b*x1 + c = " << a * x1 * x1 + b * x1 + c;
+        cout << "\n    \ta*x2*x2 + b*x2 + c = " << a * x2 * x2 + b * x2 + c;
     }
 }
